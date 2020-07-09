@@ -1,4 +1,4 @@
-### Olá 👋
+
 
 # Lucas Martins :man_technologist:
 
@@ -6,8 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/lucasfm95/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucasfm95)](https://twitter.com/lucasfm95)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lucasfm95)](https://t.me/lucasfm95)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
 
+### Olá 👋
 
 Sou desenvolvedor de software com mais de 4 anos de experiência, com sólidos conhecimentos em C# .NET Core, capaz de desenvolver novas funcionalidades e efetuar manutenções / correções em softwares.
 
