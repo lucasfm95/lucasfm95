@@ -9,7 +9,7 @@
 
 ### Olá 👋
 
-Sou desenvolvedor de software com mais de 4 anos de experiência, com sólidos conhecimentos em C# .NET Core, capaz de desenvolver novas funcionalidades e efetuar manutenções / correções em softwares.
+Sou desenvolvedor de software com mais de 5 anos de experiência, com sólidos conhecimentos em C# .NET Core, capaz de desenvolver novas funcionalidades e efetuar manutenções / correções em softwares.
 
 Conhecimentos adquiridos através de cursos e autoaprendizagem, como: Clarion, Java, JavaScript, TypeScript, Node.js, Docker, RabbitMQ, Pub/Sub, Kafka, React, HTML, CSS, Sql Server, PostgreSql, MySql, MongoDB, BigQuery, Dapper, Entity Framework, DAO, Git, Github, BitBucket, Azure DevOps, Datadog, New Relic, e Inglês intermediário (cursando). 
 <!--
