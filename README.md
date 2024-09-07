@@ -6,11 +6,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/lucasfm95/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lucasfm95)](https://t.me/lucasfm95)
 
-### Olá 👋
+### Hello 👋
 
-Desenvolvedor de software com mais de 8 anos de experiência, com sólidos conhecimentos em C# .NET em APIs e com Single Page Application (SPA) Angular e React utilizando TypeScript (TS) ou JavaScript (JS), capaz de desenvolver novas funcionalidades e efetuar manutenções / correções.
-
-Tecnologias e ferramentas conhecidas: Next.JS, Nest.JS, Docker, RabbitMQ, Pub/Sub, Kafka, HTML, CSS, Sql Server, PostgreSql, MySql, MongoDB, BigQuery, BigTable, Dapper, Entity Framework, DAO, Git, Github, BitBucket, Azure DevOps, Datadog, Visual Studio Profissional e Visual Studio Code.
+Back-end Developer with 8+ years of experience building scalable and robust backend solutions. Proficient in designing and developing RESTful APIs using .NET C#, MongoDB, Bigtable, Redis and Pub/Sub and in implementing microservices architectures and applying design patterns . Skilled in cloud technologies (GCP), containerization (Docker), and serverless computing (Cloud Function and Cloud Run). Passionate about optimizing application performance and ensuring data integrity.
 <!--
 **lucasfm95/lucasfm95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
